@@ -1,0 +1,17 @@
+D:\Coding Stuffs\VisualStudio\CSAssingments\Unit 5\StudentNames\StudentNames\bin\Debug\net6.0-windows\StudentNames.exe
+D:\Coding Stuffs\VisualStudio\CSAssingments\Unit 5\StudentNames\StudentNames\bin\Debug\net6.0-windows\StudentNames.deps.json
+D:\Coding Stuffs\VisualStudio\CSAssingments\Unit 5\StudentNames\StudentNames\bin\Debug\net6.0-windows\StudentNames.runtimeconfig.json
+D:\Coding Stuffs\VisualStudio\CSAssingments\Unit 5\StudentNames\StudentNames\bin\Debug\net6.0-windows\StudentNames.dll
+D:\Coding Stuffs\VisualStudio\CSAssingments\Unit 5\StudentNames\StudentNames\bin\Debug\net6.0-windows\ref\StudentNames.dll
+D:\Coding Stuffs\VisualStudio\CSAssingments\Unit 5\StudentNames\StudentNames\bin\Debug\net6.0-windows\StudentNames.pdb
+D:\Coding Stuffs\VisualStudio\CSAssingments\Unit 5\StudentNames\StudentNames\obj\Debug\net6.0-windows\StudentNames.vbproj.AssemblyReference.cache
+D:\Coding Stuffs\VisualStudio\CSAssingments\Unit 5\StudentNames\StudentNames\obj\Debug\net6.0-windows\StudentNames.vbproj.GenerateResource.cache
+D:\Coding Stuffs\VisualStudio\CSAssingments\Unit 5\StudentNames\StudentNames\obj\Debug\net6.0-windows\StudentNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Stuffs\VisualStudio\CSAssingments\Unit 5\StudentNames\StudentNames\obj\Debug\net6.0-windows\StudentNames.AssemblyInfoInputs.cache
+D:\Coding Stuffs\VisualStudio\CSAssingments\Unit 5\StudentNames\StudentNames\obj\Debug\net6.0-windows\StudentNames.AssemblyInfo.vb
+D:\Coding Stuffs\VisualStudio\CSAssingments\Unit 5\StudentNames\StudentNames\obj\Debug\net6.0-windows\StudentNames.vbproj.CoreCompileInputs.cache
+D:\Coding Stuffs\VisualStudio\CSAssingments\Unit 5\StudentNames\StudentNames\obj\Debug\net6.0-windows\StudentNames.dll
+D:\Coding Stuffs\VisualStudio\CSAssingments\Unit 5\StudentNames\StudentNames\obj\Debug\net6.0-windows\ref\StudentNames.dll
+D:\Coding Stuffs\VisualStudio\CSAssingments\Unit 5\StudentNames\StudentNames\obj\Debug\net6.0-windows\StudentNames.pdb
+D:\Coding Stuffs\VisualStudio\CSAssingments\Unit 5\StudentNames\StudentNames\obj\Debug\net6.0-windows\StudentNames.genruntimeconfig.cache
+D:\Coding Stuffs\VisualStudio\CSAssingments\Unit 5\StudentNames\StudentNames\obj\Debug\net6.0-windows\StudentNames.frmStudentNames.resources
